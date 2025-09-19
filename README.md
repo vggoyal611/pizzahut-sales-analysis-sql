@@ -127,7 +127,7 @@ The analysis aims to address:
  <img width="616" height="454" alt="Image" src="https://github.com/user-attachments/assets/9571b0fa-f6c8-4e4d-84e0-300a218efc7b" />
 
  
-- Avereage Pizza Sold Per Day
+- Average Pizza Sold Per Day
 
 
   <img width="910" height="382" alt="Image" src="https://github.com/user-attachments/assets/c1e5515d-a125-4203-90e6-70483e2ff562" />
