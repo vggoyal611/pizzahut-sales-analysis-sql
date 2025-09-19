@@ -60,16 +60,16 @@ The analysis aims to address:
 ---
 
 ## <a class="anchor" id="sql-analysis-performed"></a> 📊 SQL Analysis Performed
-1. **Total Orders Placed** → Counted unique order IDs.  
-2. **Total Revenue Generated** → Aggregated (price × quantity).  
-3. **Highest-Priced Pizza** → Identified "The Greek Pizza" ($35.95).  
+1. **Total Orders Placed** → 21,350. Counted unique order IDs.  
+2. **Total Revenue Generated** → $817,860 Aggregated (price × quantity).  
+3. **Highest-Priced Pizza** → The Greek Pizza $35.95.  
 4. **Most Common Pizza Size Ordered** → Large (L) pizzas dominated with 18,526 orders.  
 5. **Top 5 Most Ordered Pizzas** → Ranked by quantity.  
-6. **Category-Wise Quantity Ordered** → E.g., Classic, Supreme, Chicken categories.  
+6. **Category-Wise Quantity Ordered** → Classes was ordered the Most with 14,888 quantity from Classic, Supreme, Chicken, veggie categories.  
 7. **Order Distribution by Hour** → Lunchtime (12–13 hrs) had the highest demand (~2,500 orders/hour).  
-8. **Category-Wise Pizza Distribution** → Broke down orders across pizza categories.  
-9. **Average Pizzas Ordered per Day** → Grouped by date & calculated mean orders/day.  
-10. **Top 3 Pizzas by Revenue** → The Thai Chicken Pizza, The Barbecue Chicken Pizza, The California Chicken Pizza.  
+8. **Category-Wise Pizza Distribution** → Counted Category pizza further to get to variations in each category.  
+9. **Average Pizzas Ordered per Day** → 138 pizzas per day . Grouped by date & calculated mean orders/day.  
+10. **Top 3 Pizzas by Revenue** → The Thai Chicken Pizza, The Barbecue Chicken Pizza, The California Chicken Pizza are the most revenue generating out of all.  
 
 ---
 
@@ -100,20 +100,24 @@ The analysis aims to address:
   
 - Most Ordered Pizza Size
 
+
   <img width="723" height="500" alt="Image" src="https://github.com/user-attachments/assets/086cc48b-0a57-4479-bcee-e6560ace0548" />
 
   
 - Top 5 Most Ordered Pizzas
+
 
   <img width="874" height="492" alt="Image" src="https://github.com/user-attachments/assets/01aed6d7-2abe-4ad4-bfde-c8481fb82840" />
 
   
 - Most Ordered Category
 
-- <img width="687" height="545" alt="Image" src="https://github.com/user-attachments/assets/0197fa3d-8240-4752-8d05-a0192b7fc30d" />
+
+ <img width="687" height="545" alt="Image" src="https://github.com/user-attachments/assets/0197fa3d-8240-4752-8d05-a0192b7fc30d" />
 
 
 - Hours of Maximum Sales
+
 
   <img width="666" height="572" alt="Image" src="https://github.com/user-attachments/assets/a8cccb35-32a3-4bb0-b13d-e35e84d4e2c9" />
 
@@ -125,10 +129,12 @@ The analysis aims to address:
  
 - Avereage Pizza Sold Per Day
 
+
   <img width="910" height="382" alt="Image" src="https://github.com/user-attachments/assets/c1e5515d-a125-4203-90e6-70483e2ff562" />
 
   
 - Top 3 Most Selling PIzzas
+
 
 <img width="755" height="533" alt="Image" src="https://github.com/user-attachments/assets/dfa68bbc-02cb-4857-a44e-220133b57d6a" />
 
