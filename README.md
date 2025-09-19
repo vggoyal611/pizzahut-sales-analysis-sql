@@ -1,4 +1,4 @@
-# # <h1 align="center">🍕 Pizza Sales Analysis (SQL)</h1>
+# <h1 align="center">🍕 Pizza Sales Analysis (SQL)</h1>
 
 
 Analyzing Pizza Hut sales data using SQL to uncover insights into revenue, customer ordering patterns, and product performance.
@@ -84,7 +84,7 @@ The analysis aims to address:
 ---
 
 ## <a class="anchor" id="screenshots"></a> 📸 Screenshots
-- ![Total Orders & Revenue] 
+- ![Total Orders & Revenue] (Screenshots/Q1_TotalOrders.png)
 
 ---
 
