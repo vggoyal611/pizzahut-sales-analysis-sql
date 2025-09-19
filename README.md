@@ -84,7 +84,54 @@ The analysis aims to address:
 ---
 
 ## <a class="anchor" id="screenshots"></a> 📸 Screenshots
-- ![Total Orders & Revenue] (Screenshots/Q1_TotalOrders.png)
+- Total Orders
+
+  
+<img width="638" height="272" alt="Image" src="https://github.com/user-attachments/assets/4e4cf7d3-7076-49be-bc9e-a4dd4b535d9a" />
+
+- Total Revenue
+
+  <img width="653" height="380" alt="Image" src="https://github.com/user-attachments/assets/a32d0718-55ef-49d1-a4ec-1f1a42981215" />
+
+- Highest Priced Pizza
+
+  <img width="559" height="467" alt="Image" src="https://github.com/user-attachments/assets/b6f706b6-0f48-49f0-bdd7-f9d8ead2e3ca" />
+
+  
+- Most Ordered Pizza Size
+
+  <img width="723" height="500" alt="Image" src="https://github.com/user-attachments/assets/086cc48b-0a57-4479-bcee-e6560ace0548" />
+
+  
+- Top 5 Most Ordered Pizzas
+
+  <img width="874" height="492" alt="Image" src="https://github.com/user-attachments/assets/01aed6d7-2abe-4ad4-bfde-c8481fb82840" />
+
+  
+- Most Ordered Category
+
+- <img width="687" height="545" alt="Image" src="https://github.com/user-attachments/assets/0197fa3d-8240-4752-8d05-a0192b7fc30d" />
+
+
+- Hours of Maximum Sales
+
+  <img width="666" height="572" alt="Image" src="https://github.com/user-attachments/assets/a8cccb35-32a3-4bb0-b13d-e35e84d4e2c9" />
+
+  
+- Category Distribution
+
+ <img width="616" height="454" alt="Image" src="https://github.com/user-attachments/assets/9571b0fa-f6c8-4e4d-84e0-300a218efc7b" />
+
+ 
+- Avereage Pizza Sold Per Day
+
+  <img width="910" height="382" alt="Image" src="https://github.com/user-attachments/assets/c1e5515d-a125-4203-90e6-70483e2ff562" />
+
+  
+- Top 3 Most Selling PIzzas
+
+<img width="755" height="533" alt="Image" src="https://github.com/user-attachments/assets/dfa68bbc-02cb-4857-a44e-220133b57d6a" />
+
 
 ---
 
