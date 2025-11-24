@@ -141,8 +141,9 @@ The analysis aims to address:
 
 ---
 
-## <a class="anchor" id="author-contact"></a> 👤 Author & 📧 Contact
-👤 Author: Vaibhav Goyal  <br>
-📧 Email: vg.goyal611@gmail.com  <br>
-💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-goyal-29b70a30/)  <br>
-🌐 [Portfolio](https://github.com/vggoyal611)  <br>
+## <a class="anchor" id="author-contact"></a> 👤 Author & 📧Contact
+👤 Author: Vaibhav Goyal<br>
+📧 Email: vg.goyal611@gmail.com<br>
+💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-goyal-29b70a30/)<br>
+🧑‍💻 [Portfolio](https://github.com/vggoyal611)<br>
+🌐 [Website](https://vaibhav-goyal-7nkea52.gamma.site)
